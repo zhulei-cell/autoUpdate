@@ -15,7 +15,9 @@ namespace AutoUpdateTest
         {
             base.OnStartup(e);
 
-            AutoUpdater.Start();
+            var updateSettingUrl =
+                "https://raw.githubusercontent.com/zhulei-cell/autoUpdate/refs/heads/master/update.xml";
+            AutoUpdater.Start(updateSettingUrl);
         }
     }
 
