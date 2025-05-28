@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:AutoUpdateTest"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Background="yellow">
-        <TextBlock FontSize="30" Text="AAA" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    <Grid Background="Green">
+        <TextBlock FontSize="30" Text="AAA更新了" VerticalAlignment="Center" HorizontalAlignment="Center"/>
     </Grid>
 </Window>
