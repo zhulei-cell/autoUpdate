@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <title>Version 1.0.3</title>
+  <title>Version 1.1</title>
   <description><![CDATA[修复了一些错误，并进行了性能优化。]]></description>
-  <version>1.0.3</version>
-  <url>https://github.com/zhulei-cell/autoUpdate/releases/download/v1.2/AutoUpdateTest.zip</url>
+  <version>1.1</version>
+  <url></url>
   <mandatory>true</mandatory>
 </item>
